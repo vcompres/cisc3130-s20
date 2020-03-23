@@ -7,9 +7,9 @@ import java.util.Collections;
 import java.util.HashSet;
 
 public class PlaylistMain {
-// ,"C:\\\\Users\\\\felix\\\\Documents\\\\workspace-spring-tool-suite-4-4.4.1.RELEASE\\\\victorWork\\\\src\\\\assets\\\\regional-global-weekly-2020-02-28--2020-03-06.csv","C:\\\\Users\\\\felix\\\\Documents\\\\workspace-spring-tool-suite-4-4.4.1.RELEASE\\\\victorWork\\\\src\\\\assets\\\\regional-global-weekly-2020-03-06--2020-03-13.csv","C:\\\\Users\\\\felix\\\\Documents\\\\workspace-spring-tool-suite-4-4.4.1.RELEASE\\\\victorWork\\\\src\\\\assets\\\\regional-global-weekly-2020-03-13--2020-03-20.csv"
+
 	public static void main(String[] args) {
-		String[] myFiles = new String[]{"C:\\\\Users\\\\felix\\\\Documents\\\\workspace-spring-tool-suite-4-4.4.1.RELEASE\\\\victorWork\\\\src\\\\assets\\\\regional-global-weekly-2020-02-21--2020-02-28.csv","C:\\\\Users\\\\felix\\\\Documents\\\\workspace-spring-tool-suite-4-4.4.1.RELEASE\\\\victorWork\\\\src\\\\assets\\\\regional-global-weekly-2020-02-28--2020-03-06.csv"};
+		String[] myFiles = new String[]{"assets/regional-global-weekly-2020-01-17--2020-01-24.csv\\\"};
 		
 		ArrayList<MyQueue> allTheWeeks = new ArrayList<MyQueue>();
 		
